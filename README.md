@@ -125,7 +125,7 @@ The repo contains main.py that runs the main script from step one until the end.
 
 
 <h3>4. Conclusion</h3>
-<h4>Conclusions from EDA<h4>
+<h4>Conclusions from EDA</h4>
 <ol type = '1'>
 <li>Mondays have most sales since most of the Sundays are closed.</li>
 <li>Promotions seem to have a significant effect on sales but not for the number of customers.</li>
