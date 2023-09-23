@@ -38,7 +38,6 @@ The repo contains main.py that runs the main script from step one until the end.
 </ol>
 
  <h3>3.Machine Learning Model Implementation and performance</h3>
-<p>At this stage models used : *Linear Regression, *Lasso Regression, *Random Forest Regressor</p>
 <table >
 	<tr >	
 		<th>Regression Model</th>
