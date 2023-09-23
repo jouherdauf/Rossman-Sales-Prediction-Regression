@@ -114,7 +114,7 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 		
 	</tr>
 	<tr>
-		<td></td>								
+		<td>6</td>								
 		<td>Random Forest Regression</td>
 		<td>5.596015e+04</td>
 		<td>236.558981</td>
