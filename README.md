@@ -1,4 +1,11 @@
-	  
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+        	  
 <h1>Retail-Sales-Prediction</h1>
 
 
@@ -145,3 +152,7 @@ The repo contains main.py that runs the main script from step one until the end.
 <li>The most accurate models are Ridge,Lasso and Elastic-Net Regression,there train-test performances are</br> almost similar and coefficient's are also similar.</li>
 <li>The week of year lineplot shows that Predicted Sales follows  Actual Sales,with varaition of mostly 700 </br>dollars,except for last 2 week of the year</li>
 </ol>
+     
+        </div>
+    </foreignObject>
+</svg>
