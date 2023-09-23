@@ -125,8 +125,22 @@ The repo contains main.py that runs the main script from step one until the end.
 
 
 <h3>4. Conclusion</h3>
+<h4>Conclusions from EDA<h4>
+<ol type = '1'>
+<li>Mondays have most sales since most of the Sundays are closed.</li>
+<li>Promotions seem to have a significant effect on sales but not for the number of customers.</li>
+<li>Despite school holidays comprising only 19% of the total data points, the average sales during</br> school holidays surpass those during no holidays.</li>
+<li>Promo1 does not have significant role on sales</li>
+<li>It is advisable to spend more on promos to get higher returns.</li>
+<li>Store type b has higher sales and customers per store than other store types.More Store </br>type b must be opened.</li>
+<li>Assortment b is available only at store type b and it has more sales and customers than </br>any other assortment.</li> 
+<li>More assortment b must be stocked to meet the demands of customers.</li>
+<li>Weekly sales and customers peak at the mid-December.It may be guessed that people buy </br>drugs in advance just before the shops close for the holiday season.</li>
+<li>In cases where there is less competition distance, it appears that sales values tend to be higher.</br> This might be attributed to the possibility that in areas with higher demand, multiple stores are</br> situated.</li>
+<li>Sales are highest during december,this is because of christmas and in this month harshest winter</br> start in Europe so more people become sick. </li>
+</ol>
 
-### **Conclusions from Modelling**
+<h4>Conclusions from Modelling</h4>
 <ol type = '1'>
 <li>The linear regression  model is least accurate as it has very high coefficient of Assortment categories </br>and Store type categories and it neglected features like customers,promotions which has positive</br> correlation with sales,so we have use hyperparameter tuning to impose penalties on coefficients.</li>
 <li>Decision Tree Model  density distribution plot of sales varies highly with real data of sales.</li>
