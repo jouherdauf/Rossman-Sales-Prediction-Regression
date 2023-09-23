@@ -1,5 +1,7 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
+  <div xmlns="http://www.w3.org/1999/xhtml">
+
 <style>
 	.hi{
 	border: 3px ;	
@@ -135,5 +137,6 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 ## 4. Conclusion
 
 Acheived MAPE of 5.65% and MAE = $376 showing predictions of model is higly accurate for the sales forecast. Generated insights by EDA and feature importance provide valuable tools to decide the amount of budget and inventory for upcoming sales.
+  </div>
   </foreignObject>
 </svg>
