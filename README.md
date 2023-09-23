@@ -1,5 +1,11 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
+<style>
+	.hi{
+	border: 3px ;	
+	}
+</style>
+	  
 # Retail-Sales-Prediction
 
 
@@ -41,11 +47,6 @@ My strategy to solve this challenge was:
 
 ## 3.Machine Learning Model Implementation and performance
 At this stage models used : *Linear Regression, *Lasso Regression, *Random Forest Regressor
-<style>
-	.hi{
-	border: 3px dashed black;	
-	}
-</style>
 <table >
 	<tr >	
 		<th>Regression Model</th>
@@ -70,7 +71,7 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 		<td>0.844929</td>
 	</tr>
         <tr>								
-		<td>Lasso Regression</td>
+		<td>Lasso Regression class = "hi"</td>
 		<td>1.214485e+06</td>
 		<td>1102.036953</td>
 		<td>0.845026</td>
