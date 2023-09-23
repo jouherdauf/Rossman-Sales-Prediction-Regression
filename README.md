@@ -30,8 +30,8 @@ The repo contains main.py that runs the main script from step one until the end.
 <li>Machine Learning Modelling: Machine Learning model training.</li>
 
 <li>Hyperparameter Fine Tunning: hoose the best values for each of the parameters of the model selected from the previous step.</li>
-
-<li>Convert Model Performance to Business Values: Convert the performance of the Machine Learning model into a business result.</li>
+.
+<li>Result and Conclusion from Modelling and EDA</li>
 </ol>
 
  <h3>3.Machine Learning Model Implementation and performance</h3>
