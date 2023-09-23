@@ -39,13 +39,93 @@ My strategy to solve this challenge was:
 
 ## 3.Machine Learning Model Implementation and performance
 At this stage models used : *Linear Regression, *Lasso Regression, *Random Forest Regressor
-
-	                                        Training score                Testing score 
-			Linear Regression	0.780750		       0.782392
-			
-			Lasso Regression	0.780731		       0.782369
-			
-			Random Forest    	0.993811             	       0.956433
+<table>
+	<tr>
+		<th></th>	
+		<th>Regression Model</th>
+		<th>Train MSE</th>
+		<th>Train RMSE</th>
+		<th>Train R2</th>
+		<th>Train Adjusted_R2</th>
+		<th>Test MSE</th>
+		<th>Test RMSE</th>
+		<th>Test R2</th>
+		<th>Test Adjusted R2</th>
+	</tr>
+	<tr>
+		<td>1</td>								
+		<td>Linear Regression</td>
+		<td>1.214859e+06</td>
+		<td>1102.206527</td>
+		<td>0.844978</td>
+		<td>0.844975</td>
+		<td>1.217627e+06</td>
+		<td>1103.461202</td>
+		<td>0.844943</td>
+		<td>0.844929</td>
+	</tr>
+        <tr>
+		<td>2</td>								
+		<td>Lasso Regression</td>
+		<td>1.214485e+06</td>
+		<td>1102.036953</td>
+		<td>0.845026</td>
+		<td>0.845012</td>
+		<td>1.217348e+06</td>
+		<td>1103.334986</td>
+		<td>0.844979</td>
+		<td>0.844965</td>
+	</tr>
+	<tr>
+		<td>3</td>							
+		<td>Ridge Regression</td>
+		<td>1.214486e+06</td>
+		<td>1102.037084</td>
+		<td>0.845026</td>
+		<td>0.845022</td>
+		<td>1.217348e+06</td>
+		<td>1103.335147</td>
+		<td>0.844979</td>
+		<td>0.844965</td>
+	</tr>
+	<tr>
+		<td>4</td>								
+		<td>Elastic Net Regression</td>
+		<td>1.214485e+06</td>
+		<td>1102.036949</td>
+		<td>0.845026</td>
+		<td>0.845022</td>
+		<td>1.217348e+06</td>
+		<td>1103.334982</td>
+		<td>0.844979</td>
+		<td>0.844965</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>Decsion Tree Regression</td>							
+		<td>1.362364e+06</td>
+		<td>1167.203328</td>
+		<td>0.826156</td>
+		<td>0.826152</td>
+		<td>1.367349e+06</td>
+		<td>1169.337164</td>
+		<td>0.825877</td>
+		<td>0.825861</td>
+		
+	</tr>
+	<tr>
+		<td></td>								
+		<td>Random Forest Regression</td>
+		<td>5.596015e+04</td>
+		<td>236.558981</td>
+		<td>0.992859</td>
+		<td>0.992859</td>
+		<td>3.200686e+05</td>
+		<td>565.746016</td>
+		<td>0.959241</td>
+		<td>0.959238</td>
+	</tr>
+</table>
 
 
 
