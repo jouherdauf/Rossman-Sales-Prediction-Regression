@@ -46,8 +46,8 @@ The repo contains main.py that runs the main script from step one until the end.
 <li>Convert Model Performance to Business Values: Convert the performance of the Machine Learning model into a business result.</li>
 </ol>
 
- <h3>3.Machine Learning Model Implementation and performance
-At this stage models used : *Linear Regression, *Lasso Regression, *Random Forest Regressor</h3>
+ <h3>3.Machine Learning Model Implementation and performance</h3>
+<p>At this stage models used : *Linear Regression, *Lasso Regression, *Random Forest Regressor</p>
 <table >
 	<tr >	
 		<th>Regression Model</th>
