@@ -40,7 +40,7 @@ My strategy to solve this challenge was:
 ## 3.Machine Learning Model Implementation and performance
 At this stage models used : *Linear Regression, *Lasso Regression, *Random Forest Regressor
 <table>
-	<tr>	
+	<tr style = "border 1px dashed blue,">	
 		<th>Regression Model</th>
 		<th>Train MSE</th>
 		<th>Train RMSE</th>
@@ -84,7 +84,7 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 		<td>0.844979</td>
 		<td>0.844965</td>
 	</tr>
-	<tr style = "border 1px dashed blue,">								
+	<tr>								
 		<td>Elastic Net Regression</td>
 		<td>1.214485e+06</td>
 		<td>1102.036949</td>
