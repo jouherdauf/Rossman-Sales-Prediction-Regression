@@ -8,10 +8,10 @@
 	}
 </style>
 	  
-# Retail-Sales-Prediction
+<h1>Retail-Sales-Prediction</h1>
 
 
-Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. My work includes various plots and graphs , visualizations , feature engineering , ensemble techniques , different ML algorithms with their respective parameter tuning , analysis and trends . Predictions are of 6 weeks of daily sales for 1,115 stores located across Germany.
+<p>Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. My work includes various plots and graphs , visualizations , feature engineering , ensemble techniques , different ML algorithms with their respective parameter tuning , analysis and trends . Predictions are of 6 weeks of daily sales for 1,115 stores located across Germany.
 
 In this project, the Kaggle Rossman challenge is being taken on. The goal is to predict the Sales of a given store on a given day. Model performance is evaluated on the root mean absolute percentage error (MAPE).
 
@@ -22,14 +22,14 @@ Data Files:
 
 train.csv holds info about each store. store.csv holds the sales info per day for each store.
 
-The repo contains main.py that runs the main script from step one until the end.
+The repo contains main.py that runs the main script from step one until the end.</p>
 
 
-## 1. Business Problem.
-Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
+<h3>1. Business Problem.</h3>
+<p>Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.</p>
 
 ## 2. Solution Strategy
-My strategy to solve this challenge was:
+<p>My strategy to solve this challenge was:</p>
 <ol type= 1>
 <li>Data Description: Use statistics metrics to identify data distributions.</li>
 
@@ -46,9 +46,8 @@ My strategy to solve this challenge was:
 <li>Convert Model Performance to Business Values: Convert the performance of the Machine Learning model into a business result.</li>
 </ol>
 
-
-## 3.Machine Learning Model Implementation and performance
-At this stage models used : *Linear Regression, *Lasso Regression, *Random Forest Regressor
+ <h3>3.Machine Learning Model Implementation and performance
+At this stage models used : *Linear Regression, *Lasso Regression, *Random Forest Regressor</h3>
 <table >
 	<tr >	
 		<th>Regression Model</th>
@@ -134,9 +133,9 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 
 
 
-## 4. Conclusion
+<h3>4. Conclusion</h3>
 
-Acheived MAPE of 5.65% and MAE = $376 showing predictions of model is higly accurate for the sales forecast. Generated insights by EDA and feature importance provide valuable tools to decide the amount of budget and inventory for upcoming sales.
+<p>Acheived MAPE of 5.65% and MAE = $376 showing predictions of model is higly accurate for the sales forecast. Generated insights by EDA and feature importance provide valuable tools to decide the amount of budget and inventory for upcoming sales.</p>
   </div>
   </foreignObject>
 </svg>
