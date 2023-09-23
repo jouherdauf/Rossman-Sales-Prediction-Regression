@@ -1,11 +1,3 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-  <div xmlns="http://www.w3.org/1999/xhtml">
-	  <style>
-		  .hi{
-			  border: 3px ;	
-		  }
-	  </style>
 	  
 <h1>Retail-Sales-Prediction</h1>
 
@@ -71,7 +63,7 @@ The repo contains main.py that runs the main script from step one until the end.
 		<td>0.844929</td>
 	</tr>
         <tr>								
-		<td>Lasso Regression class = "hi"</td>
+		<td>Lasso Regression</td>
 		<td>1.214485e+06</td>
 		<td>1102.036953</td>
 		<td>0.845026</td>
@@ -135,6 +127,3 @@ The repo contains main.py that runs the main script from step one until the end.
 <h3>4. Conclusion</h3>
 
 <p>Acheived MAPE of 5.65% and MAE = $376 showing predictions of model is higly accurate for the sales forecast. Generated insights by EDA and feature importance provide valuable tools to decide the amount of budget and inventory for upcoming sales.</p>
-  </div>
-  </foreignObject>
-</svg>
