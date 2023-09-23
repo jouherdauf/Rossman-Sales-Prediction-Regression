@@ -84,7 +84,7 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 		<td>0.844979</td>
 		<td>0.844965</td>
 	</tr>
-	<tr border-style ='dotted';>								
+	<tr style = "border 1px dashed blue,">								
 		<td>Elastic Net Regression</td>
 		<td>1.214485e+06</td>
 		<td>1102.036949</td>
