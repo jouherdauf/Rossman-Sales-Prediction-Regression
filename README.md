@@ -126,4 +126,12 @@ The repo contains main.py that runs the main script from step one until the end.
 
 <h3>4. Conclusion</h3>
 
-<p>Acheived MAPE of 5.65% and MAE = $376 showing predictions of model is higly accurate for the sales forecast. Generated insights by EDA and feature importance provide valuable tools to decide the amount of budget and inventory for upcoming sales.</p>
+### **Conclusions from Modelling**
+<ol type = '1'>
+<li>The linear regression  model is least accurate as it has very high coefficient of Assortment categories </br>and Store type categories and it neglected features like customers,promotions which has positive</br> correlation with sales,so we have use hyperparameter tuning to impose penalties on coefficients.</li>
+<li>Decision Tree Model  density distribution plot of sales varies highly with real data of sales.</li>
+<li>Random Forest Regression has 99% accuracy for train data but 96% for test data, so this type of</br> model cant be trusted,as the difference between train
+-test is very high</li>
+<li>The most accurate models are Ridge,Lasso and Elastic-Net Regression,there train-test performances are</br> almost similar and coefficient's are also similar.</li>
+<li>The week of year lineplot shows that Predicted Sales follows  Actual Sales,with varaition of mostly 700 </br>dollars,except for last 2 week of the year</li>
+</ol>
