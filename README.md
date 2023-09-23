@@ -40,8 +40,7 @@ My strategy to solve this challenge was:
 ## 3.Machine Learning Model Implementation and performance
 At this stage models used : *Linear Regression, *Lasso Regression, *Random Forest Regressor
 <table>
-	<tr>
-		<th>No.</th>	
+	<tr>	
 		<th>Regression Model</th>
 		<th>Train MSE</th>
 		<th>Train RMSE</th>
@@ -52,8 +51,7 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 		<th>Test R2</th>
 		<th>Test Adjusted R2</th>
 	</tr>
-	<tr>
-		<td>1</td>								
+	<tr>								
 		<td>Linear Regression</td>
 		<td>1.214859e+06</td>
 		<td>1102.206527</td>
@@ -64,8 +62,7 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 		<td>0.844943</td>
 		<td>0.844929</td>
 	</tr>
-        <tr>
-		<td>2</td>								
+        <tr>								
 		<td>Lasso Regression</td>
 		<td>1.214485e+06</td>
 		<td>1102.036953</td>
@@ -76,8 +73,7 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 		<td>0.844979</td>
 		<td>0.844965</td>
 	</tr>
-	<tr>
-		<td>3</td>							
+	<tr>							
 		<td>Ridge Regression</td>
 		<td>1.214486e+06</td>
 		<td>1102.037084</td>
@@ -88,8 +84,7 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 		<td>0.844979</td>
 		<td>0.844965</td>
 	</tr>
-	<tr>
-		<td>4</td>								
+	<tr>								
 		<td>Elastic Net Regression</td>
 		<td>1.214485e+06</td>
 		<td>1102.036949</td>
@@ -101,7 +96,6 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 		<td>0.844965</td>
 	</tr>
 	<tr>
-		<td>5</td>
 		<td>Decsion Tree Regression</td>							
 		<td>1.362364e+06</td>
 		<td>1167.203328</td>
@@ -112,8 +106,7 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 		<td>0.825877</td>
 		<td>0.825861</td>
 	</tr>
-	<tr>
-		<td>6</td>								
+	<tr>							
 		<td>Random Forest Regression</td>
 		<td>5.596015e+04</td>
 		<td>236.558981</td>
