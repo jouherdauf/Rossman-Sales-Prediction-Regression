@@ -4,10 +4,8 @@
           <style>
 		h1 {
                 color: red;
-               
-            }
-	    </style>
-        	  
+               }
+	 </style>
 <h1>Retail-Sales-Prediction</h1>
 
 
