@@ -39,7 +39,7 @@ My strategy to solve this challenge was:
 
 ## 3.Machine Learning Model Implementation and performance
 At this stage models used : *Linear Regression, *Lasso Regression, *Random Forest Regressor
-<table style = "border: 3px dashed blue,">
+<table style = "border: 3px dashed black;">
 	<tr >	
 		<th>Regression Model</th>
 		<th>Train MSE</th>
