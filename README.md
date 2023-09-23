@@ -28,7 +28,7 @@ The repo contains main.py that runs the main script from step one until the end.
 <h3>1. Business Problem.</h3>
 <p>Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.</p>
 
-## 2. Solution Strategy
+<h3>2. Solution Strategy</h3>
 <p>My strategy to solve this challenge was:</p>
 <ol type= 1>
 <li>Data Description: Use statistics metrics to identify data distributions.</li>
