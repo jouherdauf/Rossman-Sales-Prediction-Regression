@@ -30,7 +30,7 @@ The repo contains main.py that runs the main script from step one until the end.
 <li>Machine Learning Modelling: Machine Learning model training.</li>
 
 <li>Hyperparameter Fine Tunning: hoose the best values for each of the parameters of the model selected from the previous step.</li>
-.
+
 <li>Result and Conclusion from Modelling and EDA</li>
 </ol>
 
