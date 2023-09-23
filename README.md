@@ -41,7 +41,7 @@ My strategy to solve this challenge was:
 At this stage models used : *Linear Regression, *Lasso Regression, *Random Forest Regressor
 <table>
 	<tr>
-		<th></th>	
+		<th>No.</th>	
 		<th>Regression Model</th>
 		<th>Train MSE</th>
 		<th>Train RMSE</th>
@@ -111,7 +111,6 @@ At this stage models used : *Linear Regression, *Lasso Regression, *Random Fores
 		<td>1169.337164</td>
 		<td>0.825877</td>
 		<td>0.825861</td>
-		
 	</tr>
 	<tr>
 		<td>6</td>								
