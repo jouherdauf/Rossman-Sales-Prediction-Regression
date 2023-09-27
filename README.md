@@ -125,7 +125,7 @@ The repo contains main.py that runs the main script from step one until the end.
 <ol type = '1'>
 <li>Mondays have most sales since most of the Sundays are closed.</li>
 <li>Promotions seem to have a significant effect on sales but not for the number of customers.</li>
-<li>Despite school holidays comprising only 19% of the total data points, the average sales during</br> school holidays surpass those during no holidays.</li>
+<li  style="width: 50%;">Despite school holidays comprising only 19% of the total data points, the average sales during</br> school holidays surpass those during no holidays.</li>
 <li>Promo1 does not have significant role on sales</li>
 <li>It is advisable to spend more on promos to get higher returns.</li>
 <li>Store type b has higher sales and customers per store than other store types.More Store </br>type b must be opened.</li>
