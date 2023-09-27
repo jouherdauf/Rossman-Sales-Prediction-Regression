@@ -2,7 +2,7 @@
 <h1>Retail-Sales-Prediction</h1>
 
 
-<p>Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. My work includes various plots and graphs , visualizations , feature engineering , ensemble techniques , different ML algorithms with their respective parameter tuning , analysis and trends . Predictions are of 6 weeks of daily sales for 1,115 stores located across Germany.
+<p  style="width: 50%;">Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. My work includes various plots and graphs , visualizations , feature engineering , ensemble techniques , different ML algorithms with their respective parameter tuning , analysis and trends . Predictions are of 6 weeks of daily sales for 1,115 stores located across Germany.
 	
 The dataset consists of two csv files: store.csv and train.csv
 
@@ -125,7 +125,7 @@ The repo contains main.py that runs the main script from step one until the end.
 <ol type = '1'>
 <li>Mondays have most sales since most of the Sundays are closed.</li>
 <li>Promotions seem to have a significant effect on sales but not for the number of customers.</li>
-<li  style="width: 50%;">Despite school holidays comprising only 19% of the total data points, the average sales during</br> school holidays surpass those during no holidays.</li>
+<li>Despite school holidays comprising only 19% of the total data points, the average sales during</br> school holidays surpass those during no holidays.</li>
 <li>Promo1 does not have significant role on sales</li>
 <li>It is advisable to spend more on promos to get higher returns.</li>
 <li>Store type b has higher sales and customers per store than other store types.More Store </br>type b must be opened.</li>
